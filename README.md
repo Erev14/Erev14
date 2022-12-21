@@ -1,3 +1,6 @@
+<div align=center>
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 <!--
 ### Hi there 👋
 **Erev14/Erev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
