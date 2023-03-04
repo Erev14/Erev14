@@ -216,31 +216,51 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(72.92748917748918,0)">
+                            <g class="tick" opacity="1" transform="translate(49.52291105121294,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(79.86253369272237,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(113.45283018867924,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(145.91442048517519,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(179.50471698113208,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(212.0114555256065,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(126.87554112554113,0)">
+                            <g class="tick" opacity="1" transform="translate(245.60175202156336,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(180.82359307359306,0)">
+                            <g class="tick" opacity="1" transform="translate(279.1920485175202,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(233.0313852813853,0)">
+                            <g class="tick" opacity="1" transform="translate(311.6987870619946,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(287.05194805194805,0)">
+                            <g class="tick" opacity="1" transform="translate(345.3342318059299,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(339.2597402597403,0)">
+                            <g class="tick" opacity="1" transform="translate(377.84097035040435,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(393.20779220779224,0)">
+                            <g class="tick" opacity="1" transform="translate(411.43126684636115,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2023</text>
                             </g>
@@ -268,8 +288,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L160.8181818181818,140.5L173,140.5L209.54545454545456,140.5L221.72727272727272,140.5L270.4545454545455,140.5L343.5454545454545,140.5L441,140.5L441,132.96484270564122L343.5454545454545,80.23081721771678L270.4545454545455,45.139203279565095L221.72727272727272,139.75131449959898L209.54545454545456,134.06371981106852L173,138.76111754745565L160.8181818181818,129.112735050352L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L160.8181818181818,140.5L173,140.5L209.54545454545456,140.5L221.72727272727272,140.5L270.4545454545455,140.5L343.5454545454545,140.5L441,140.5L441,140.5241511451742L343.5454545454545,141.1037786293557L270.4545454545455,141.24868550040102L221.72727272727272,140.5483022903485L209.54545454545456,143.22907940468764L173,141.17623206487835L160.8181818181818,141.3211389359237L39,140.97094733089742Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L46.58490566037736,140.5L190.69811320754718,140.5L266.5471698113207,140.5L274.1320754716981,140.5L296.88679245283015,140.5L304.47169811320754,140.5L334.811320754717,140.5L380.3207547169812,140.5L425.8301886792453,140.5L441,140.5L441,132.96484270564122L425.8301886792453,137.01015952232422L380.3207547169812,80.23081721771678L334.811320754717,45.139203279565095L304.47169811320754,139.75131449959898L296.88679245283015,134.06371981106852L274.1320754716981,138.76111754745565L266.5471698113207,129.112735050352L190.69811320754718,5L46.58490566037736,132.37313964887264L39,137.49318242580873Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L46.58490566037736,140.5L190.69811320754718,140.5L266.5471698113207,140.5L274.1320754716981,140.5L296.88679245283015,140.5L304.47169811320754,140.5L334.811320754717,140.5L380.3207547169812,140.5L425.8301886792453,140.5L441,140.5L441,140.5241511451742L425.8301886792453,140.82604045985207L380.3207547169812,141.1037786293557L334.811320754717,141.24868550040102L304.47169811320754,140.5483022903485L296.88679245283015,143.22907940468764L274.1320754716981,141.17623206487835L266.5471698113207,141.3211389359237L190.69811320754718,140.97094733089742L46.58490566037736,143.8328580340433L39,140.5120755725871Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2233,7 +2253,7 @@ Volume 22 contains the gaiden "Good Loser Kumagawa Final" (完結編).</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.31m out of 109m users</span>
+                                    <span class="gh">ranked 2.31m out of 110m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -2443,7 +2463,7 @@ Volume 22 contains the gaiden "Good Loser Kumagawa Final" (完結編).</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 944k out of 109m users</span>
+                                    <span class="gh">ranked 944k out of 110m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">12</div>
                                     </div>
@@ -2603,7 +2623,7 @@ Volume 22 contains the gaiden "Good Loser Kumagawa Final" (完結編).</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Mar 2023, 00:18:50 (timezone America/Mexico_City) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 01:13:57 (timezone America/Mexico_City) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
